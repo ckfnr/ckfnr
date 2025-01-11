@@ -10,3 +10,4 @@
 
 # 🏆 My GitHub Stats
 ![Cesario Kufner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAME&layout=compact&theme=radical) 
