@@ -7,3 +7,6 @@
 - ⚡ electronics
 - ⚙️ automation
 - ⚙️ Autodesk Fusion 360
+
+# 🏆 My GitHub Stats
+![Cesario Kufner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAME&show_icons=true&theme=radical)
