@@ -12,3 +12,5 @@
 # 🏆 My GitHub Stats
 ![Cesario Kufner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckfnr&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckfnr&layout=compact&theme=radical) 
+
+[![Cesario Kufner](https://img.shields.io/badge/GitHub-AJ-Holzer-lightgrey?style=flat&logo=github)](https://github.com/AJ-Holzer)
