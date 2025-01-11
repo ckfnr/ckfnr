@@ -4,6 +4,7 @@
 
 # 🌟 Languages & Technologies
 - 🖥️ C#, C
+- 🐍 Python
 - ⚡ electronics
 - ⚙️ automation
 - ⚙️ Autodesk Fusion 360
