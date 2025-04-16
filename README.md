@@ -3,7 +3,7 @@
 - feel free to check out my [Homepage](https://cksite.online)
 
 # 🌟 Languages & Technologies
-- 🖥️ C#, C
+- 🖥️ C, C++
 - 🐍 Python
 - ⚡ electronics
 - ⚙️ automation
