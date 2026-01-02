@@ -11,6 +11,7 @@ I'm mainly in education, studying hardware aswell as software. I'm trying to bre
 - electronics
 - automation
 - Autodesk Fusion 360
+- Webdesign (HTML, CSS, JS, MySQL, Wordpress)
 
 # Connect with my friends
 [![Cesario Kufner](https://img.shields.io/badge/GitHub-AJ_Holzer-lightgrey?style=flat&logo=github)](https://github.com/AJ-Holzer) <br>
