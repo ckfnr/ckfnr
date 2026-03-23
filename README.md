@@ -8,9 +8,7 @@ I'm mainly in education, studying hardware aswell as software. Currently I'm jus
 # Languages & Technologies
 - C, C++
 - Python
-- electronics
-- automation
-- Autodesk Fusion, KiCAD
+- Autodesk Fusion, KiCad
 - Webdesign (HTML, CSS, JS, MySQL, Wordpress)
 
 # Connect with my friends
