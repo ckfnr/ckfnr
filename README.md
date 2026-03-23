@@ -10,7 +10,7 @@ I'm mainly in education, studying hardware aswell as software. Currently I'm jus
 - Python
 - electronics
 - automation
-- Autodesk Fusion 360
+- Autodesk Fusion, KiCAD
 - Webdesign (HTML, CSS, JS, MySQL, Wordpress)
 
 # Connect with my friends
