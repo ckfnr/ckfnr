@@ -1,6 +1,6 @@
 #  Cesario Kufner
 Hello, I'm Cesario!
-I'm mainly in education, studying hardware aswell as software. Currently I'm just working on my usual projects (https://ckufner.com/current-projects.html).
+I'm mainly in education, studying hardware aswell as software. Currently I'm just working on my usual projects (https://ckufner.com/projects/projects.html).
 
 - I just got done working on project [debbie](https://github.com/ckfnr/Projekt-Debbie)
 - feel free to check out my [Homepage](https://ckufner.com)
