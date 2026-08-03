@@ -13,4 +13,3 @@ I'm mainly in education, studying hardware aswell as software. Currently I'm jus
 
 # Connect with my friends
 [![Cesario Kufner](https://img.shields.io/badge/GitHub-AJ_Holzer-lightgrey?style=flat&logo=github)](https://github.com/AJ-Holzer) <br>
-[![Cesario Kufner](https://img.shields.io/badge/GitHub-Momen_Louati-lightgrey?style=flat&logo=github)](https://github.com/louatimomen)
